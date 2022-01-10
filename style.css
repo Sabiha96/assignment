@@ -1,0 +1,191 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0px;
+}
+.half-width{
+    width: 50%;
+    float: left;
+    margin: 40px 0px 0px 250px;
+    padding: left;
+
+}
+h1{
+    color: #333333;
+    font-size: 60px;
+
+}
+.lomba-daag{
+    border-left: 5px solid;
+    padding-left: 15px;
+}
+.onno-color{color: #CE2E5D;}
+p{
+    font-size: 18px;
+    font-weight: 100;
+}
+.prothom-button{
+    background-color: #CE2E5D;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+
+}
+.karukaaj{
+    padding-top: 20px;
+}
+.kahlor-chobi{
+    float: left;
+    margin-top: 45px;
+
+}
+.kahlor-chobi img{
+    width: 108%;
+}
+.moddher-line{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin:auto;
+    border: 0px;
+   
+}
+section{
+    display: flex;
+    margin-bottom: 30px;
+}
+.sub-hero-Section{
+    margin-left: 600px;
+
+}
+.mexico-artist{
+    font-size: 36px;
+    align-items: center;
+    color: #333333; 
+}
+.three-box{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.gallery-box-one{
+    max-width: 360px;
+    max-height: 360px;
+    background-color: #798463;
+    margin: 25px;
+    border-radius: 20px;
+    padding: 50px 50px 20px 30px;
+
+}
+.gallery-box-two{
+    max-width: 360px;
+    max-height: 360px;
+    background-color: #D3AB58;
+    margin: 25px;
+    border-radius: 20px;
+    padding: 50px 50px 20px 30px;
+}
+.gallery-box-three{
+    max-width: 360px;
+    max-height: 360px;
+    background-color: #7DCBBC;
+    margin: 25px;
+    border-radius: 20px;
+    padding: 50px 50px 20px 30px;
+}
+.tin-number-row{
+    margin-left: 00px;
+    margin-top: 40px;
+}
+.text-part{
+    margin: 20px 50px 20px 30px;
+    padding-left: 100px;
+    padding-right: 250px;
+    padding-top: 50px;
+    align-items: left;
+    float: right;
+
+}
+.arekta-button{
+    background-color: #CE2E5D;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+}
+.arekta-button-two{
+    background-color: #017848;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+}
+.row-four{
+    margin-left: 250px;
+    margin-right: 100px;
+}
+.text-part-row-four{
+    margin: 20px 150px 10px 30px;
+    padding-left: 100px;
+    padding-right: 30px;
+    padding-top: 50px;
+    align-items: left;
+    float: right;
+}
+.h-width-row-four{
+    width: 50%;
+    float: left;
+    margin: 0px 100px 0px 00px;
+    padding: left;
+}
+.solo-artist{
+    font-size: 36px;
+    align-items: center;
+    color: #333333;
+}
+.solo-section{
+    margin-left: 760px;
+}
+.onno-green-color{
+    color: #017848;
+}
+.paach-number-row{
+    margin-left: 00px;
+}
+.final-button{
+    background-color: #017848;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+}
+.footer-box{
+    position: bottom;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #333333;
+   color: white;
+   text-align: center;
+}
+.footer {
+    background-color: #0B0D17;
+    padding: 1px;
+    text-align: center;
+    color: white;
+}
+.nicher-lekha{
+    font-family: manrope;
+    font-weight: 200;
+}
+.last-lekha{
+    font-family: 'Lobster Two', cursive;
+    font-size: 30px;
+
+}
+.similler-font{
+    font-size: 36px;
+}
